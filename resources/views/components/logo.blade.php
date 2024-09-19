@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/images/logo/logo-idp-new.png') }}" alt="logo indoprinting baru" />

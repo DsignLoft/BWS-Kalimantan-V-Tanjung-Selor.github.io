@@ -1,0 +1,1 @@
+<?php header('location: https:https://indoprinting.co.id');
